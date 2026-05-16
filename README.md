@@ -1,5 +1,3 @@
-# AI Solution Design – Manufacturing Domain
-
 # AI-Based Defect Detection System
 
 ## Project Overview
